@@ -1,0 +1,35 @@
+
+from promptflow import tool
+
+from custom_llm_tools.tools.ngc_openai import NgcOpenAI
+import custom_llm_tools.tools.config as cfg
+
+# The inputs section will change based on the arguments of the tool function, after you save the code
+# Adding type to arguments and return value will help the system show the types properly
+# Please update the function name/signature per need
+
+def summarize_diff(diffstr: str, ngcai: NgcOpenAI) -> str:
+    prompt = f'''You are given results from running "diff" on two files,
+go through the input carefully and summarize the changes. Be concise, use bullet points and mention the line numbers. The input goes below:
+{diffstr}'''
+
+    resp = ngcai.chat_completions_sync(
+        [{"role":"system", "content":prompt}]
+        , deployment_id='gpt-4-32k'
+    )
+    ret = '\n DEFAULT \n'
+    try:
+        ret = resp.get('choices')[0]['message']['content']
+    except:
+        print(ret)
+
+    return ret
+
+@tool
+def my_python_tool(diff: list) -> str:
+    ret = ''
+    ngcai = NgcOpenAI(endpoint=cfg.NGC_ENDPOINT, key=cfg.NGC_SUBSCRIPTION)
+    for partial in diff:
+        subtotal = summarize_diff(partial, ngcai)
+        ret += subtotal
+    return ret

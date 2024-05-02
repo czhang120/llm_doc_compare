@@ -1,0 +1,542 @@
+- Line 1: The document reference links for January 2013 and October 2014 have been replaced with a link to the consolidated Basel Framework.
+- Lines 4 to 6: The document title has been changed from \"Basel III: International framework for liquidity risk measurement, standards and monitoring\" to \"Basel III: A global regulatory framework for more resilient banks and banking systems\".
+- Line 7: The date of publication has been updated from \"December 2010\" to \"December 2010 (rev June 2011)\".- The document initially referenced has been replaced by two updated versions.
+- The January 2013 version can be found at http://www.bis.org/publ/bcbs238.htm (line 1).
+- The October 2014 version can be found at http://www.bis.org/bcbs/publ/d295.pdf (line 1).- The ISBN print number changed from 92-9131-860-4 to 92-9131-859-0 (Line numbers corresponding to change: 9-10).
+- The ISBN web number changed from 92-9197-860-4 to 92-9197-859-0 (Line numbers corresponding to change: 12-13).- Line 1: The original document has been replaced by two new documents. The replacements are dated January 2013 with the URL http://www.bis.org/publ/bcbs238.htm and October 2014 with the URL http://www.bis.org/bcbs/publ/d295.pdf.- The title \"I. Introduction\" has been replaced by \"Introduction\" at line 1.
+- A new content outline has been added from lines 2 to 5, these include: \"A. Strengthening the global capital framework\", \"1. Raising the quality, consistency and transparency of the capital base\", \"2. Enhancing risk coverage\", \"3. Supplementing the risk-based capital requirement with a leverage ratio\", \"4. Reducing procyclicality and promoting countercyclical buffers\", \"Cyclicality of the minimum requirement\", and \"Forward looking provisioning\".
+- \"Transitional arrangements\" at line 2 has been replaced with \"Capital conservation\" at line 6.
+- \"Scope of application\" at line 2, and \"II. Regulatory standards\" at line 3 have been removed.
+- New content has been added at lines 7 and 8, these include: \"Excess credit growth\" and \"5. Addressing systemic risk and interconnectedness\".
+- \"II.1 Liquidity Coverage Ratio\" at line 3 has been replaced with \"1. Liquidity Coverage Ratio\" at line 9.
+- \"II.2 Net Stable Funding Ratio\" at line 25 has been replaced with \"2. Net Stable Funding Ratio\" at line 9.
+- The content under \"III. Monitoring tools\",  \"III.1 Contractual maturity mismatch\", \"III.2 Concentration of funding\", \"III.3 Available- Line 2: There is a change in document reference from \"January 2013 http://www.bis.org/publ/bcbs238.htm and October 2014 http://www.bis.org/bcbs/publ/d295.pdf\" to no reference.
+- Line 22: The sentence \"2 Basel III: International framework for liquidity risk measurement, standards and monitoring\" has been replaced with numerous new lines (22 to 64) covering different topics such as Asset value correlation multiplier for large financial institutions, Central counterparties, Enhanced counterparty credit risk management requirements, Capital conservation buffer, Countercyclical buffer, and Leverage ratio among others.
+- Line 65: \"2 Basel III: A global regulatory framework for more resilient banks and banking systems\" has been added.
+- No other lines between 3 and 21 have been modified, added or removed.- Several abbreviations have been added, including terms related to banking such as Asset-backed commercial paper (ABCP), Available Stable Funding (ASF), and Credit conversion factor (CCF), among others.
+- The old document titled 'Basel III: International framework for liquidity risk measurement, standards and monitoring' has been replaced by two new documents published in January 2013 and October 2014.
+- Deletions comprise the entire introductory segment of the old document. This includes the document's objectives, a review of the 2007 financial crisis, discussion on the Sound Principles of liquidity risk management, and an explanation of two minimum standards for funding liquidity.- New additions have been made on lines 1 to 7, marking the introduction of new acronyms such as SFT, SIV, SME, SPV, VaR, VRDN, along with their full forms. A point about \"Basel III: A global regulatory framework for more resilient banks and banking systems\" has also been added.
+- Lines 8 to 31 have been removed from the document. This includes information about:
+    - Replacing the document by January 2013 and October 2014 versions.
+    - Explanation of standards comprising of specific parameters, which are internationally harmonised.
+    - Stressing on standards for liquidity for active banks.
+    - Development of monitoring tools for liquidity risk supervision.
+    - Introduction of transitional arrangements to implement new liquidity standards.
+    - Vigilant reporting processes to monitor the standards.
+    - Information on the schedule of introducing LCR and NSFR standards.
+    - Explanation on the application of requirements in the document.
+    - The organization of the document.
+    - Mention of section in Basel Framework.- The original document referred to the organization of regulations around two standards, the Liquidity Coverage Ratio and the Net Stable Funding Ratio, to promote short-term and long-term resilience in banks' liquidity risk profiles respectively (Lines 2-14).
+
+- It also discussed how these standards aim to increase banks' resilience to liquidity shocks, and should be implemented consistently worldwide, with certain parameters allowing some national discretion (Lines 13-14).
+
+- Mentioned the Liquidity Coverage Ratio, a standard aiming that banks maintain high-quality liquid assets to meet their liquidity needs for a 30-day period. A definition for the standard was also given (Lines 15-16).
+
+- Removed content included links to documents replaced by January 2013 and October 2014 publications (Line 1), and details about the Liquidity Coverage Ratio (Lines 15-16).
+
+- The updated document introduces the Basel III framework and the Committee's aim behind its creation. This includes strengthening global capital and liquidity rules, improving risk management, governance, and transparency, and strengthening the resolution of systemically significant cross-border banks (Lines 1-4).
+
+- The new content further elaborates on the reasons for the financial crisis of 2007, including insufficient capital and liquidity in banks, excessive leverage, and problems inherent in the \"shadow banking system\" (Lines 4-7).
+
+- It also acknowledges the negative impact of the crisis on liquidity and credit availability, and the burden placed on taxpayers due to emergency public- Line 1: The document mentioned that it is replaced by the January 2013 and October 2014 documents, linking to two specific online sources.
+- Lines 2-16: The document described a scenario for the LCR standard wherein various events such as the run-off of retail deposits, a partial loss of secured and unsecured wholesale funding, an increase in market volatility, and additional contractual outflows are taken into account.
+- Lines 17-19: The stress scenario and its significance were summarized, and it was suggested that banks should conduct their own stress tests for their specific business activities and share the results with supervisors.
+- Line 20: The LCR was said to have two components - The value of the stock of high-quality liquid assets in stressed conditions and the total net cash outflows.
+- Line 21: The numerator of the LCR, called the \"stock of high-quality liquid assets\", was defined.
+- Lines 5-9: Details of how the global financial crisis impacted banks, financial systems, and economies, and spread to countries globally were added.
+- Line 6: The introduction of various fundamental reforms to the international regulatory framework by the Committee is mentioned to address market failures.
+- Lines 7-8: The Basel Committee's efforts to strengthen the resilience of the banking sector, particularly by enhancing the regulatory capital framework, are detailed.
+- Lines 1, 8-9: Emphasized the importance of ensuring banks' risk exposures are- Lines 1 to 25 have been deleted and replaced by lines 26 to 58.
+
+Changes include:
+- The introductory paragraph mentioning the replacement of the document by newer editions and the characteristics of high-quality liquid assets has been removed.
+- Lines 26 to 32 introduce a new segment, detailing intentions of the Committee to minimize any disruptions and plans to continue reviewing contingencies.
+- Lines 33 to 43 discuss the need to enhance risk coverage following lessons from a past crisis, and the Committee's actions to counter shortcomings and ensure stability.
+- Lines 44 to 55 introduce measures to bolster capital requirements for counterparty credit exposures and mentions various forthcoming reforms.
+- Line 56 to 58 indicates the Committee's support to address systemic risk resulting from interconnectedness in the derivatives markets, introducing a reference to the Committee on Payments and Settlement Systems (CPSS) and Basel III.- The International Organization of Securities Commissions (IOSCO) is to establish robust standards for financial market infrastructures, including central counterparties.
+- The relation of banks with central counterparties (CCPs) will be determined based on the compliance of the CCP with such standards.
+- The Committee will increase risk weights on exposures to financial institutions as financial exposures are more highly correlated than non-financial ones.
+- The Committee is raising credit risk management standards in several areas and also issued additional guidelines for the sound backtesting of counterparty credit exposures.
+- Various measures have been assessed to mitigate reliance on external ratings of the Basel II framework.
+- The Committee is introducing a leverage ratio requirement aimed at constraining excessive leverage in the banking sector and introducing safeguards against model risk and measurement error.
+- A comment indicating that a document was replaced by two newer versions in January 2013 and October 2014 has been removed.
+- Several points discussing the significance of high-quality liquid assets and the threats posed by lower quality assets under severe market stress are removed.
+- Points discussing the operational requirements for managing the stocks of high-quality liquid assets, including them being available to convert into cash at any time, being unencumbered, not co-mingled with trading positions, and not being designated as collateral or credit enhancements in structured transactions are removed.
+- The document that was replaced in line 1 is suggested to be replaced by January 2013 and October 2014 versions.
+- Lines 29-39 cover guidelines regarding banks' control over their liquidity risk, including regular monetisation of assets and maintaining liquid assets to meet legal entity requirements.
+- Lines 31-33 mention how LCR stress does not cover intraday liquidity needs and that the LCR should be met in a common currency, but also notes the potential risks of foreign exchange liquidity.
+- Lines 34-36 redefine categories for high-quality liquid assets and mention a ceiling of 40% for Level 2 assets, while Level 1 assets can be included with no limit.
+- Introduced new points in lines 4, 18-22 that cover the topics of reducing procyclicality, promoting countercyclical buffers, understanding the causes of financial shocks in the banking system, and measures introduced to make banks more resilient to such shocks. High-risk exposures are also listed as a procyclical dynamic.
+- Line 22 mentions regarding a review of additional measures that could balance risk sensitivity and stability of capital requirements.- New additions:
+   - A system to estimate internal ratings-based capital requirements during benign credit conditions (line 1).
+   - The UK Financial Services Authority (FSA) has proposed an approach to provide non-cyclical PDs in IRB requirements (lines 3-4).
+   - Discussion about forward-looking provisioning and the committee's efforts to improve it (lines 6-25).
+   - Introduction of a framework to promote capital conservation and buffer building above the minimum (line 26).
+   - Discussion of negative impacts of large distribution activities during the financial crisis and introduction of a framework to address these issues (lines 27-28).
+   - References to external documents regarding various regulatory and strategic approaches (lines 29-34).
+
+- Removals:
+   - A mention of the document being replaced by two different ones (line 1).
+   - A comprehensive discussion regarding Level 1 and Level 2 assets, their definitions, usage, and regulations (lines 2-25).
+   - Notes on central bank eligibility and the extent to which central bank reserves should be considered liquid assets (lines 26-27).- The document reference link has been replaced. Previously referred to documents from January 2013 and October 2014, with specific URLs.
+- Guidelines were present for non-0% risk-weighted sovereigns, sovereign or central bank debt securities for domestic and foreign currencies.
+- Details given on Level 2 assets and their limitations are no longer present.
+- Included information about marketable securities, corporate bonds, and covered bonds has been removed.
+- New content focused on excess credit growth and the potential destabilization of the banking sector.
+- Basel committee introduced a regime that adjusts the capital buffer range for signs of excessive credit growth.
+- Discussions on measures to address procyclicality and distinguishing among the capital measures such as minimum capital requirement and buffers above the minimum.
+- Introducing responses to address systemic risk and interconnectedness in the banking sector.
+- Major financial institutions are to have absorbing capacity beyond the minimum standard with ongoing work on this issue.
+- The Basel committee is introducing both quantitative and qualitative indicators to ascertain the systemic importance of financial institutions globally.
+- The committee will be conducting a study on the magnitude of additional loss absorbency that globally systemic financial institutions should have.
+- Several capital requirements directed to mitigate risks within global financial institutions were introduced.
+- It also includes other risk mitigation measures for systemic banks like liquidity surcharges, tighter exposure restrictions, and enhanced supervision.
+- The timeframe for these enhancements was set to be in the first half of 2011.- Removal: Information related to 'Testing of additional criteria' present on lines 13-22 and lines 24-30.
+- Removal: Information on 'Treatment for jurisdictions with insufficient liquid assets' from lines 32-40.
+- Addition: Added new information about 'capital incentives for banks to use central counterparties for over-the-counter derivatives', 'higher capital requirements for trading and derivative activities', 'higher capital requirements for inter-financial sector exposures', and 'introduction of liquidity requirements that penalise excessive reliance on short term, interbank funding to support longer dated assets' on lines 45-48.
+- Addition: Included a new section 'B. Introducing a global liquidity standard' present in lines 50-68.
+- Update: Replaced document reference with 'January 2013 http://www.bis.org/publ/bcbs238.htm and October 2014 http://www.bis.org/bcbs/publ/d295.pdf' on line 1.
+- Corrections: Corrected the punctuations and symbol errors found in file.- Added content about creating incentives for banks to enhance funding structure for a more stable and longer time horizon. Added information about the Net Stable Funding Ratio (NSFR) and its time horizon (lines 1-4).
+- Mentioned about the two standards being internationally harmonized with certain specific parameters that vary based on jurisdiction (lines 5-9).
+- Added content about Liquidity Coverage Ratio (LCR), its intention, and advantages (lines 10-20).
+- Mentioned the five factors assumed in the scenario including downgrade of the institution’s public credit rating, loss of deposits etc. (lines 21-25).
+- Added details about high-quality liquid assets (line 26-27).
+- Added information about the requirements and goals of NSFR (lines 28-32).
+- Added details about the monitoring tools used by supervisors. Added the purpose and requirements for standardized metrics (lines 33-42). Removed information about the replacement of this document by other resources (line 43).
+- Removed information about usage limitations of liquidity options and some potential options (lines 44-45).
+- Removed details about options 1, 2, 3 for dealing with insufficient high-quality liquid assets (lines 46-56).- The document was replaced by publications from January 2013 and October 2014.
+- Total net cash outflows were defined and explained, and their calculation was outlined (Lines 50 & 52).
+- A template for organizing finances was given in Annex 1 (Line 52).
+- Banks are not permitted to double count items (Line 53).
+- Retail deposits are defined and divided into \"stable\" and \"less stable\" portions (Lines 54 & 55).
+- Stable deposits, with a run-off rate of 5% and higher, are further defined (Line 56).
+- The document was supplemented with information on future works of the Committee regarding liquidity risk and the explanation of various monitoring tools (Lines starting with \"+\").
+- Implementation of new standards and transitional arrangements were introduced (Lines 44 & 45).
+- The LCR will be introduced on 1 January 2015 and the NSFR will become a minimum standard by 1 January 2018 (Line 45).
+- Both the LCR and the NSFR will be subject to an observation period (Line 46).- Added the section titled \"D. Scope of application\" starting from line 47. This section illustrates the application of minimum capital requirements in line with the Basel II Framework.
+- Removed the content starting from line 57 to line 63. The removed lines described various aspects of banking including the description of less stable deposits, role of supervisory authorities, effectiveness of deposit insurance schemes, conditions of foreign currency deposits, concept of 'stable' deposits and provisions for retail fixed-term deposits.
+- Removed the line that stated the document is replaced by updates from January 2013 and October 2014.
+- Added a line referring to \"Basel III: A global regulatory framework for more resilient banks and banking systems 11\".- Added details about global banking system's issues during crisis, components of capital, Tier capital requirements, and the term \"bank\" (Lines 1-17, 19-24).
+- Added information about the Basel III regulatory framework and proposals (Lines 25-28).
+- Removed notations about replaced document links (Line 29).
+- Removed discussions about retail term deposits, unsecured wholesale funding, LCR and wholesale funding provided by small businesses (Lines 30-63).- The summary of additions include:
+  - An elaboration on what constitutes Common Equity Tier 1 capital with the elements such as common shares, stock surplus, retained earnings, accumulated other comprehensive income, and regulatory adjustments, was added from line 1 to line 22.
+  - Explanation of criteria for instruments to be included in Common Equity Tier 1 capital is added from line 23 to line 32.
+
+- The summary of deletions include:
+  - Deletion of reference to replaced documents at the start of the document (line 33).
+  - Details of deposits and other fund extensions made by non-financial small business customers, their treatment, characteristics and limitations are deleted from line 34 to line 66.
+  - Points about unsecured wholesale funding with operational relationships including requirements, limitations and run-off factors are deleted from line 67 to line 85.
+  - Points about deposits arising out of correspondent banking or from the provision of prime brokerage services are deleted from line 86 to line 88.Additions:
+- Line 1: Criteria for classifying common shares for regulatory capital purposes is outlined.
+- Lines 12 & 13: Special conditions for non joint stock companies are mentioned, aiming to preserve the quality of their financial instruments.
+- Line 14: A regulatory framework for resilient banks and banking systems is referenced.
+
+Deletions:
+- Last line: The document is replaced by January 2013 and October 2014 respective links.
+- Lines 75-77: Descriptions of clearing, custody, and cash management relationships have been removed.
+- Line 78: Details about coverage of unsecured wholesale funding provided by non-financial corporate customers, etc., by deposit insurance has been removed.
+- Lines 79-End: Descriptions about the treatments of deposits in institutional networks of cooperative banks and the services they provide have been removed.- Added lines (line numbers unspecified) include information about the paid in amount being unsecured and not covered by a guarantee of the issuer or related entity, issuance only with approval from owners of the issuing bank, and clear and separate disclosure on the bank's balance sheet.
+- Introduced the concept of Additional Tier 1 capital including its constituting elements and criteria for instrument inclusion within it.
+- Introduced the concepts of related entities, holding companies, and consolidated banking groups.
+- Removed lines (line numbers unspecified) mention the replacement of the document by new links, handling of illiquidity and insolvency of members, supervisory approval requirements, and details about unsecured wholesale funding provided by various entities.
+- Removed information about secured funding run-off, associated conditions, and details of funds and debt security handling by banks.
+- Deleted the definitions and description related to secured funding, certain repurchase conditions, and fiduciaries and beneficiaries.- Added paragraphs 5 to 9 of the issuer's guidelines on bond callable options' management and supervisory approvals.
+- Addition of paragraphs 10 to 12 outlining guidelines for instrument maturity, dividends/coupons payment, and refinancing conditions.
+- Removed a note mentioning that the document is replaced by two others.
+- Removed paragraphs detailing different scenarios for the bank’s secured funding transactions.
+- Removed sections detailing outflows related to high-quality 'Level 1' and 'Level 2' assets.
+- Removal of segment including tables displaying collateral requirements based on asset levels and their respective risk levels.
+- Removed paragraph on derivatives' payables.
+- Took out a section discussing increased liquidity needs due to embedded downgrade triggers in financing transactions, derivatives, and other contracts.
+- Deleted clarification regarding the definition and treatment of Public Sector Entities (PSEs) within the context of the document.- New lines have been added that cover the rules for instruments classified as liabilities, specifying conditions such as reduction in the claim of the instrument and specifying that neither a bank or related party can purchase the instrument (Lines 11-14).
+
+- Lines that discuss the eligibility of Stock surplus (share premium) from issuing instruments in different Tier capitals have been added (Lines 56-57).
+
+- Added lines covering the composition of Tier 2 capital, detailing elements like instruments issued by the bank and stock surplus (Line 57).
+
+- Removed lines from the document which discussed regulatory framework for more resilient banks and banking systems, the scenario regarding downgrade triggers, increased liquidity needs related to valuation changes and potential loss of funding on asset-backed securities, commercial paper and structured financing instruments (Lines 90-92).
+
+- The document was updated and is no longer replaced by January 2013 and October 2014 versions.
+
+- Deleted content about a Special purpose entity (SPE) definition and rules in the Basel II Framework.- The text added sections regarding:
+  - The handling of instruments issued out of consolidated subsidiaries of the bank and the regulatory adjustments applied in the calculation of Tier 2 Capital (Line 1-2)
+  - Criteria for an instrument to be included in Tier 2 Capital (Lines 4-26)
+  - Providing explanation on exercise of a call option (Lines 15-20)
+- The sections removed include:
+  - The availability of a document replaced in 2013 and 2014 (Line 58)
+  - Information about the potential risk element stock of high-quality liquid assets (Line 59)
+  - Explanation about debt maturities within the calculation period (Line 61)
+  - Details regarding embedded options in financing arrangements (Lines 63-65)
+  - Information about drawdowns on committed credit and liquidity facilities (Lines 67-76)
+  - Explanation about the currently undrawn portion of these facilities (Lines 78-82)
+  - Information about liquidity facility (Lines 84-89)
+  - Details about available, unused capacity to issue financing (Lines 90-91)
+  - Information regarding providers of associated liquidity facilities (Line 94)- Added clauses specifying that the instrument should not have a credit sensitive dividend feature (line 7) and cannot be purchased by the bank or a related party (line 8).
+- Added a condition for instruments issued out of operating entities other than the holding company (line 9).
+- Added conditions for incorporating Stock surplus (share premium) and General provisions/general loan-loss reserves in Tier 2 capital (lines 59-60).
+- Provided instructions for handling excess of total eligible provisions in Tier 2 capital under the Internal Ratings-based Approach (line 61).
+- Added rules regarding minority interest and common shares issued by consolidated subsidiaries (line 62).
+- Removed a section on contractual loan drawdowns from committed facilities and estimated drawdowns from revocable facilities (line 97).
+- Removed clauses detailing obligations to extend funds within a 30-day period and instructions for handling other contingent funding obligations (lines 98-101).
+- The reference to the replaced documents is removed (line titled \"This document is replaced by...\").- New text added focuses on explaining the criteria for classification as common shares for regulatory capital purposes and the classification as Tier 1 capital (lines 1-30).
+- Specific methods on how to calculate common equity tier 1 and Tier 1 capital are introduced (lines 3-14, 17-23).
+- Explains conditions under which an institution can be considered as a bank and conditions under which minority interest in a bank subsidiary can be considered (lines 31-34).
+- The replaced text based on the diff was focused on explaining reputational risk considerations and potential customer expectations regarding liquidity and marketability of products or instruments (lines 38-41).
+- Removed text also elaborated on contingent funding obligations and the potential liabilities banks might face under stress events (lines 42-50, 54-66).
+- The list of other contingent funding obligations or instruments such as uncommitted credit, guarantees, letters of credit, and others were taken out (lines 52-58,60-67).
+- Removed sections also explored potential related liquidity risks, other contractual cash outflows, and necessity of consideration for the same (lines 68-75, 78-79).Changes:
+
+- The document it is replacing has been removed (line 1).
+- The introduction on cash inflows and how a bank should deal with them have been removed(lines 2-18).
+- Information on reverse repos and securities borrowing has been removed (lines 19-34).
+- The addition of details on Tier 1 and Tier 2 qualifying capital issued by consolidated subsidiaries (lines 35-51).
+- Information on how capital issued from a special purpose vehicle (SPV) should be handled has been added (lines 52-58).
+- The addition of a section on regulatory adjustments (line 59).
+- New data on how goodwill and other intangibles should be deducted in the calculation of Common Equity Tier 1 (lines 60-66).- Line 1: Document link for January 2013 and October 2014 was replaced.
+- Lines 2-9: Details regarding the treatment of lines of credit in a banking scenario were mentioned.
+- Lines 10-20: Discusses other inflows by counterparties and how they should be treated.
+- Lines 21-28: Discusses treatment of inflows from retail and small business customers.
+- Lines 29-36: Discusses assumptions and rules about other wholesale inflows.
+- Lines 37-46: Speaks on operational deposits and their treatments in terms of inflow.
+- Line 47-54: Even more specifics about inflow treatment, especially in cases of derivatives receivables.
+- Lines 55-66: Introduced new segment detailing treatment of impaired or derecognised intangible assets under relevant accounting standards.
+- Lines 67-78: The document discusses how a bank can calculate deferred tax assets (DTAs) and liabilities (DTLs). It also talks about threshold deduction treatment for temporary differences.
+- Lines 79-81: Indicates treatment of overinstallment of tax or current year tax losses.
+- Lines 82-84: Discusses how cash flow hedge reserve should be treated on the balance sheet.
+- Lines 85-90: Specifics on derecognizing cash flow hedge reserves.
+- Lines 91-93: Guides on the deduction from capital in regard to a shortfall of provisions to expected losses under- Removed sentences highlighting a document replaced by sources from January 2013 and October 2014.
+- Removed details about net stable funding ratio (NSFR), explaining its objective, how it's defined, what it's based on and how it's calculated.
+- Removed text from a section explaining that if a net receivable exists, it will receive a 100% inflow factor, as well as details on other contractual cash inflows, and information pertaining to its calculation, treatment, and supervisory jurisdiction.
+- New text added, introducing topics about Cumulative gains and losses, Derecognition, Defined benefit pension fund assets and liabilities, and Investments in own shares or treasure stock.
+- The added text also includes, in lines 75 to 78, explanations and specific rules on how to treat these new topics in the calculation of Common Equity Tier 1.
+- The explanations includes rules specific to derecognising unrealised gains and losses, treating pension fund liabilities and assets, natural offset factors approved by supervisors, and circumstances under which bank's own shares need to be deducted from Common Equity Tier 1.
+- The additions also express concerns about the liquidity of assets in pension funds and explain how to avoid double counting of a bank's own capital.
+- Lastly, the text adds that banks must deduct investments in their own Additional Tier 1 in the calculation of their Additional Tier 1 capital and must deduct investments in their own Tier 2 in the calculation of their Tier 2 capital- Removed: A section explaining the document is replaced by content from January 2013 and October 2014 (line 1)
+- Removed: Discussion about bank stress, liquidity characteristics, and institution-specific activities (lines 2-4)
+- Removed: The future plans of the Committee, including data gathering and potential changes affecting funding within a one-year timeframe (lines 5-8)
+- Removed: Detailed definition and objectives of available stable funding (ASF) (lines 9-26)
+- Removed: Clauses explaining how the available amount of stable funding is calculated (lines 27-33)
+- Added: Information regarding the treatment of reciprocal cross holdings in the capital of banking, financial and insurance entities (lines 34-37)
+- Added: Rules regarding investments in the capital of banking, financial and insurance entities not consolidated by the bank and not constituting more than 10% ownership of the entity (lines 38-56)
+- Added: Rule stating that any holdings exceeding 10% of the bank's common equity are to be deducted, maintaining a \"corresponding deduction approach\" (lines 57-61)
+- Line numbers refer to the original document lines.- Line 7-15: Added a detailed explanation on how to calculate deductions from different tiers of capital using total of all holdings and corresponding percentage of respective capital holdings.
+- Line 16-18: Added rule for cases when a bank doesn't have enough of a particular tier of capital for deductions. The shortfall will be deducted from the next higher tier of capital.
+- Line 19-22: Detailed how to calculate risk weighting for amounts below the threshold, treating instruments in trading and banking books differently according to market risk rules and internal ratings-based approach or standardised approach.
+- Line 23-37: Included rules for the regulatory adjustment in cases of significant investments in the capital of banking, financial and insurance entities not within the scope of regulatory consolidation. The rules specify the conditions for inclusion, look-through for holdings, and how to determine net positions.
+- Change of footnote 29: The footnote now states that significant investments in the capital of banking, financial and insurance entities indicate those not consolidated or not consolidated fully to result in their assets being included in consolidated risk-weighted assets.
+- Change of footnote 30: The newly added footnote defines an affiliate of a bank and the criteria for control of a company.
+- Change of footnote 31: Added a footnote to permit banks, subject to supervisory approval, to use conservative estimates if it's burdensome to look through and monitor exposure due to holdings of index securities.
+- Line 38: Removed the document \"Basel III: A- The document has replaced an old reference link with links from January 2013 and October 2014.
+- The paragraph detailing the definition of required stable funding for assets and off-balance sheet exposures, Paragraphs 129-133, have been removed.
+- The paragraphs discussing underwriting positions, regulatory adjustment, and capital instruments of the bank, Paragraphs 85-89, have been added.
+- Note about exclusion of certain investments in reorganising distressed institution being made on national discretion or with prior supervisory approval
+- Explanation on corresponding deduction and threshold deductions were introduced.
+- Rule on treating capital investments, which does not meet the criteria for different tiers.
+- Emphasis on recognizing investments not common shares and recognizing common share investments following a specified threshold treatment.
+- Explanation on the calculations of deduction on the overage of certain items, their disclosure, and future treatment restrictions.
+- Risk weighting of the items that were not deducted.
+- Clarification in footnotes regarding the regulatory capital in the relevant sector of the financial entity and its requirement of deduction.Additions:
+- Description of the deduction of certain items from the capital, including securitisation exposures, equity exposures under the PD/LGD approach, non-payment/delivery on non-DvP and non-PvP transactions, and significant investments in commercial entities (lines 2-9).
+- New disclosure requirements implicate a full reconciliation of all regulatory capital elements, separate disclosure of all regulatory adjustments, description of all limits and minima, description of the main features of capital instruments issued, and accompanying disclosures of ratios with a comprehensive explanation of how they are calculated (lines 10-24).
+- Banks are obligated to make the full terms and conditions of all instruments included in regulatory capital available on their websites (lines 25-27).
+- During the transition phase, banks must disclose the specific components of capital (lines 28-30).
+- Transitional arrangements for implementing the new standards are noted, including national implementation by member countries beginning on 1 January 2013 with specific minimum requirements in relation to risk-weighted assets (lines 31-46).
+
+Deletions:
+- The specified document is replaced by two different versions (line 47).
+- The detailed composition of Asset Categories and Associated RSF Factors in Table 2 has been deleted (lines 48-83).- Added a note that Basel III revisions published in December 2017 affect parts of the document, and provides a link to the publication.
+- Added details about the phasing in of the minimum Common Equity Tier 1 and Tier 1 requirements between 1 January 2013 and 1 January 2015, including specifics on the increase in percentages and the total capital requirement remaining at 8.0%.
+- Added specifics on the regulatory adjustments, including deductions and prudential filters, stating that they will be fully deducted from Common Equity Tier 1 by 1 January 2018.
+- Added specific dates for when the regulatory adjustments will begin and eventually reach 100%. The remainder not deducted during this transition period from Common Equity Tier 1, Additional Tier 1 and Tier 2 capital will continue to be subject to existing national treatments.
+- Added information about the treatment of capital issued out of subsidiaries and held by third parties, stating that they will be phased in as well.
+- Added statement mentioning that existing public sector capital injections will be grandfathered until 1 January 2018.
+- Added details about the phasing out of capital instruments that no longer qualify as non-common equity Tier 1 capital or Tier 2 capital, beginning 1 January 2013, and provides specifics on the capping percentages.- The whole document is replaced by one from January 2013 and October 2014. Line 1
+- Added a note mentioning Basel III revisions from December 2017 affecting certain parts of the publication. Line 47
+- Provided details about the terms and conditions under which different financial instruments are recognised under the Tier 1 or Tier 2 regulatory capital, with references to specific dates. Lines 48-59
+- Stated that quite a few capital tools not meeting the criteria for inclusion in Common Equity Tier 1 after 1 Jan 2013 would be phased out though some exceptions have been given. Lines 60-65
+- Added sub-heading and content around risk coverage specifically dealing with counterparty credit risk. Lines 66-69
+- Mentioned that reforms to the counterparty credit risk framework would be effective from 1 January 2013. Line 71
+- Added a footnote regarding non-joint stock companies not addressed in the Basel Committee's 1998 agreement. Line 73- The document has been replaced by January 2013 http://www.bis.org/publ/bcbs238.htm and October 2014 http://www.bis.org/bcbs/publ/d295.pdf.
+- A line is added that states Basel III revisions published in December 2017 affect parts of this published document.
+- A revised metric has been added to better address counterparty credit risk, credit valuation adjustments, and wrong-way risk.
+- An Effective EPE (Expected Positive Exposure) with stressed parameters introduced to address general wrong-way risk.
+- A new paragraph 25(i) is introduced for banks with permission to use the internal models method (IMM) to calculate counterparty credit risk (CCR) regulatory capital – referred to as “IMM banks”.
+- Changes have been made to paragraph 61 of Annex 4, relating to the calibration of the Effective EPE model using historic market data.
+- A suggestion on how to perform stress calibration for Effective EPE properly. The process would involve using three years of data, the usage of benchmark portfolios, and potential adjustments by relevant supervisors.
+- The document ends with the declaration that it is part of the global regulatory framework for more resilient banks and banking systems.- Line 1: The document was replaced by the January 2013 and October 2014 versions.
+- Lines 125-149: Description of data that banks provide to supervisors, how it is utilized, and the importance of supervisors requesting reports to assess the impact of changes in business models.
+- Lines 150-173: Explanation of the need for banks to identify gaps in maturity mismatches and submit plans to bridge them, as well as an encouragement for diversification of funding sources.
+- Lines 174-184: Instructions on different sections dealing with funding liabilities and asset and liability amounts.
+- Line 185: A note has been added about Basel III revisions that affect parts of this publication published in December 2017.
+- Lines 186-188: A new section on Capitalisation of the risk of CVA losses has been added.
+- Lines 189-326: Introduction of new section VIII for mark-to-market counterparty risk losses. It gives the instructions on how to calculate the charge to cover the risk of CVA to OTC derivatives and detailed formulations for the CVA of each counterparty.- The document was replaced by releases from January 2013 and October 2014.
+- The calculation of the metric is defined, examining funding concentrations by counterparty or type of instrument/product.
+- It describes how the numerator for A and B is determined (line 152).
+- Instructions given for calculation of numerator for counterparties (line 153), defining a \"significant counterparty\" (line 154).
+- Definitions and calculations for significant instruments/products (line 155 & 156), defining a \"significant instrument/product\" (line 156).
+- Details for considering significant currencies (line 157 & 158), definitions on a \"significant\" currency (line 158).
+- Reporting time horizon instructions given (line 159).
+- Basel III revisions from December 2017 are noted for impacting the content of the document. The specific revisions are not elaborated on here.
+- Introduction of various concepts/formulas linked to counterpart credit calculation like s Credit spread at tenor t, LGD or loss given default, market-implied default probability, expected exposure (EE)
+- Additional explanation is given for default risk-free discount factor (D).
+- Instructions are provided for the basis of inputs into the bank's approved VaR model when calculating the CVA risk capital charge for a counterparty.
+- More formulas introduced including CS01, a model calculating credit spread sensitivities.
+- The document’s context is Basel III, a global regulatory framework aimed at creating more resilient banks and banking- A new note has been added stating that Basel III revisions published in December 2017 affect parts of this publication. A link to the pertinent publication has been provided.
+- Mathematical and explanatory notations related to Regulatory CS01, VaR model, and EE (expected exposure) profile have been added.
+- Banks using the shortcut method for collateralized OTC derivatives are directed to compute the CVA risk capital charge according to a particular paragraph.
+- Conditions under which a bank is disallowed to use the advanced CVA risk charge have been specified.
+- Details regarding the computation of the CVA risk capital charge, incorporating general and specific credit spread risks and excluding the Incremental Risk Charge (IRC), have been added.
+- Steps on how to calculate the non-stressed VaR and stressed VaR have been provided.
+- Two mentions of Basel III are added, once connected to the note at the beginning and once in connection to the regulatory framework for more resilient banks and banking systems.- The document was replaced by new updates in January 2013 and October 2014.
+- A discussion about haircuts, collateral, and reporting was given which involves multiple steps including calculating the expected monetised value of the collateral and disclosing their locations and the business lines who can access the assets. (Lines 167-171)
+- The metric discussed does not capture potential changes in counterparties' haircuts and lending policies. It should be complemented with the maturity mismatch metric and other balance sheet data. (Lines 171)
+- Standards are needed to be met in a single currency to capture potential currency mismatches. Banks and supervisors should monitor the LCR in significant currencies. (Lines 172)
+- A new note has been added which mentions that Basel III revisions published in December 2017 affect some parts of the publication.
+- Information about a severe one-year stress period, additional CVA risk capital charge, hedges used for mitigating CVA risk, and eligible hedges for calculating the CVA risk capital charge has been added. (Lines 101-105)
+- Further details on eligible hedges and restrictions on the use of index CDSs have been provided. (Lines 103)
+- If a bank does not have required approvals to use specific paragraphs to calculate a CVA capital charge for its counterparties, they have to calculate a portfolio capital charge using a given formula. (Lines 104)- The original document is replaced by links to documents published in January 2013 and October 2014. In the update, it's noted that a revision published in December 2017 affects parts of the publication.
+- A lengthy mathematical formula has been added, including various factors and outcomes. It appears to calculate risk and exposures based on factors like counterparty weight, exposure at default, collateral, maturity of transactions/hedges, and the use of both single-name and index credit default swaps.
+- Details and definitions are provided for the terms used in the formula, such as 'h' (one-year risk horizon), 'w' (weight applicable to counterparty), 'EADtotal' (exposure at default), 'B' (notional of purchased single-name CDS hedges), 'Bind' (notional of index CDS of purchased protection), and 'M' (effective maturity of transactions).
+- Lastly, instructions are added on how to account for counterparties that are also constituents of an index on which a Credit Default Swap (CDS) is used for hedging counterparty credit risk.
+- All above changes occur after line 177 in the original document (no specific line numbers for changes provided).- The document has been replaced by publications from January 2013 and October 2014.
+- A \"Note\" has been added mentioning Basel III revisions published in December 2017.
+- A table has been added showing weights based on the external rating of the counterparty. It includes eight different ratings from AAA to CCC, each with a specific weight.
+-  Paragraph 105 has been introduced discussing the calculation of the aggregate CCR and CVA risk capital charges.
+- Information has been added about banks with IMM approval and market-risk internal-models approval for the specific interest-rate risk of bonds, including the determination of the total CCR capital charge for these banks.
+- A footnote (#38) has been added explaining the use of Standard & Poor’s credit ratings as an example, and it clarifies that this does not express any preferences by the Committee.- Added lines mentioning the effects of Basel III revisions, detailed out procedures and rules for national supervisors, banks with IMM approval and all other banks.
+- Provided a new formula for full maturity adjustment function.
+- Clarified the calculation of the total CCR capital charge.
+- Inserted a new description for the term \"Outstanding EAD\".
+- Revised paragraph 57 of Annex 4 in Basel II regarding wrong-way risk.
+- Removed lines related to the document being replaced, schedule and scope for LCR and NSFR reporting, and procedures for application and liquidity requirements.
+- Deleted details regarding the application of liquidity standards across jurisdictions and treatments of retail/ small business deposits in different host jurisdictions.- The document has been updated with Basel III revisions published in December 2017.
+- There have been added discussions about risk factors correlated with counterparty credit worthiness, need to address severe shocks, monitoring general wrong way risk by several categories, and mandatory reporting to senior management and the board.
+- There is an imposition of an explicit Pillar 1 capital charge and revisions to Annex 4 where specific wrong-way risk has been identified.
+- Changes were made on paragraphs 423, 29 and 58 concerning the implementation of higher EAD value for counterparties with identified wrong way risk, the usage of an internal model in EAD calculation and the identification, management, and control of wrong way risk.
+- An additional note has been added regarding the possibility of recoveries on the underlying instrument beneath such swap in cases of wrong way risk.
+- Removed mentioning of the replacement of the document by two previous publications from January 2013 and October 2014.
+- Deleted information on pages 2, and 193 to 196 which discussed the treatment of liquidity transfer restrictions, currencies, observation periods and transitional arrangements for the standards.- The document has been replaced by January 2013 and October 2014 versions from www.bis.org (Line 1)
+- The note about Basel III revisions published in December 2017 affecting the publication has been added (Line 11)
+- New paragraphs about legal and financial transactions, equity derivatives, bond options, securities and asset value correlation multiplier for large financial institutions have been added (Lines 12-38)
+- Paragraphs 272 has been provided a detailed definition and mathematical explanation for risk-weighted assets (Lines 17-27)
+- Introduction of a multiplier of 1.25 for correlation parameter of all exposures to financial institutions fulfilling defined criteria has been added (Lines 29-33)
+- Inclusion of footnotes providing explanations for terms and calculations used in the text (Lines 33-38)
+- Paragraphs 2 to 10 have been removed. These were related to additional QIS usage, reporting to supervisors, potential revisions to the standards, and specific timelines for introducing the LCR and NSFR.- The document was originally replaced by a publication from January 2013 and October 2014, but now includes revisions from Basel III published in December 2017.
+- A note was added about the supervision of the consolidated group by a regulator, including a list of entities like Insurance Companies, Broker/Dealers, Banks, Thrifts, and Futures Commission Merchants.
+- Added terms about unregulated financial institutions which are characterized as legal entities whose business includes various types of financial services activities.
+- Inserted a new formula for the correlation (R_FI).
+- Descriptions for collateralised counterparties and margin period of risk were added, including increase of the margin period of risk.
+- Additional rules regarding the margin period of risks are included under paragraphs 41(i) and 41 (ii) into Annex 4 of the Basel II framework.
+- Criteria for when a supervisory floor of 20 business days is imposed on the margin period of risk.
+- Information regarding the bank's responsibility to consider if trades or securities it holds as collateral are concentrated in a counterparty were added.
+- If a bank has more than two margin call disputes on a particular netting set over two previous quarters, additional requirements apply.
+- All new additions were not assigned specific line numbers.- Added a note about Basel III revisions published in December 2017 affecting parts of the publication.
+- Added provisions for banks to reflect this history appropriately using a margin period of risk.
+- Specified conditions for re-margining with a periodicity of N-days.
+- Introduced a revision in Paragraph 167 of Basel II dealing with adjustment for different holding periods and non-daily mark-to-market or remargining.
+- Detailed a new minimum holding period for various transaction types.
+- Replaced Paragraph 179 of Basel II about the use of models.
+- Laid out new criteria for the recognition of internal market risk models for repo-style transactions and other similar transactions.
+- Revised the shortcut method for estimating Effective EPE.
+- Indicated changes in Paragraph 41 – Annex 4 – Basel II regarding the shortcut method for a bank that can model EPE without margin agreements.
+- Removed a document replaced by January 2013 and October 2014 versions.
+- Removed information about term deposits with residual maturity greater than 30 days.
+- Removed details about unsecured wholesale funding from various sources, secured funding, and additional requirements.- Added a note mentioning the impact of Basel III revisions published in December 2017 on the publication and provided a URL for reference (Line 1)
+- Added a point on re-margining and daily mark-to-market as described in paragraph 41 (Lines 2)
+- Introduced a new method as a simple approximation to Effective EPE with specific conditions (Lines 3-19)
+- Stated that downgrading triggers should be precluded from being reflected in EAD (Lines 20-22)
+- Inserted a new paragraph emphasizing that internal models method should not capture effect of EAD reduction clause in collateral agreements (Lines 23-25)
+- Incorporated new requirements to improve the performance of the collateral department in Annex 4 (Lines 26-29)
+- Added a note on the usability of the shortcut method for banks that are clearing members in a CCP for their transactions (Lines 30 - 31)
+- Removed a note regarding document replacement (Line 32)
+- Removed extensive details on liabilities, unsettled securities, cash inflows and other specifics related to ABCP, SIVs, Conduits, etc such as Asset-backed Securities, credit and liquidity facilities to various clients and more (Lines 33-66)- The existing document has been replaced with two new resources namely 'January 2013 http://www.bis.org/publ/bcbs238.htm' and 'October 2014 http://www.bis.org/bcbs/publ/d295.pdf'.
+- A note has been added stating that Basel III revisions published in December 2017 affect parts of this publication.
+- A reference to 'paragraph 777(x), Part 3: The Second Pillar – Supervisory Review Process,' and its revisions have been added.
+- Two new sub-sections 51(i) and 51(ii) have been introduced detailing the roles, responsibilities, and reports of an internal collateral management unit in banks.
+- These sub sections emphasize on the need for accurate and regular reporting, adequate resourcing, and efficient management, even in crisis situations.
+- Section 777(x) outlines the requirement for banks to independently review their CCR management system regularly through internal audits. This section provides a comprehensive list of specifics that need to be addressed during this review.- A note was added about the Basel III revisions published in December 2017 affecting parts of the publication.
+- There were several additions regarding the verification of data sources, the accuracy of calculations, and frequent backtesting of the model (lines 2-9).
+- Requirements were added around controls on the reuse of collateral by IMM banks and the addition of new paragraphs in Annex 4 (lines 10-25).
+- Banks are now required to use supervisory haircuts when transforming non-cash OTC collateral into cash-equivalent (lines 26-36).
+- In added lines 37-46, banks are required to model non-cash collateral jointly with underlying securities for OTC Derivatives and SFTs.
+- Credit risk mitigation section has been revised to add a qualitative collateral management requirement (lines 47-53).
+- A document was replaced by the January 2013 and October 2014 publications.
+- Annex 2, which was a summary of the Net Stable Funding Ratio, was removed from the document (lines 54-92).- Line \"This document is replaced by January 2013 http://www.bis.org/publ/bcbs238.htm and October 2014 http://www.bis.org/bcbs/publ/d295.pdf\" was removed.
+- Additional text was added to mention that the Basel III revisions published in December 2017 affect parts of the publication, with a relevant link provided.
+- Several lines were added to establish bank requirements pertaining to collateral management policies, including risks, concentration risk, reuse of collateral, and surrender of rights.
+- An addition was made to revise the text to establish standard supervisory haircuts for securitisation collateral; this includes a new paragraph 145(i) and a revision of paragraph 151.
+- A table was added detailing standardised supervisory haircuts under different conditions for different types of securities and issuers.
+- Another addition specified how the default probability (PD) estimates for highly leveraged counterparties should be based on a stressed period's asset performance.- A new note was added indicating the Basel III revisions, published in December 2017, affect parts of the publication and providing a website link for more information.
+- A paragraph has been added at line 415(i) that clarifies PD estimates should reflect the performance of their underlying assets in times of stress.
+- A new section (4. Central counterparties) was added starting at line 113, acknowledging ongoing work by the CPSS and IOSCO to review the 2004 recommendations for Central Counterparties.
+- In line 114, a change was made to paragraph 36 of Annex 4, outlining stricter requirements to increase the robustness of banks’ own estimates of alpha.
+- A new heading related to stress testing was introduced at line 115, elaborating the requirements for stress testing that banks must follow when using the internal model method.
+- Revised paragraph 56 of Annex 4 stipulates that banks must have a comprehensive stress testing program for counterparty credit risk, detailing specific requirements and frequency.
+- Text ends with the title \"46 Basel III: A global regulatory framework for more resilient banks and banking systems\", indicating more content might follow in the corresponding file.- Added a note on line 1 regarding Basel III revisions affecting parts of the publication.
+- Added multiple lines (2-24) of guidance related to how banks should conduct multifactor stress testing and assess non-directional risks. This includes considerations for its frequency, purpose, and how results should be reported and used for risk management.
+- Added guidance on line 25 stating that senior management should take a lead role in integrating stress testing into the risk management framework and ensuring results are used proactively.
+- On line 26-30, introduced a section on model validation and backtesting, with specific adjustments made to how models should include transaction-specific information and account for margin factors.
+- In line 31, the term Basel III is specified as a global regulatory framework for resilient banks and banking systems.- A new note is added that Basel III revisions, published in December 2017, have an impact on parts of the publication (Line 1).
+- The Basel II requirements for backtesting will be replaced (Line 2).
+- Further information provided about the need for supervisory authorities to monitor banks' risk management systems (Line 3-9).
+- The stipulation that only banks in full compliance with qualitative criteria will be eligible for the application of the minimum multiplication factor, along with detailed, seven-point criteria (Line 10-35).
+- Added footnotes explaining the term \"risk measures\" (Line 36-41).
+- Final reference to Basel III as a regulatory framework for resilient banks and banking systems (Line 42).- A note has been added on line 1, informing that the Basel III revisions published in December 2017 affect parts of the content.
+- A URL has been added providing a link to the Basel III revisions.
+- Information about the inclusion of the activities of the business trading units and the risk-control unit has been incorporated between lines 2 and 9.
+- Guidelines for the review of the risk management process have been clarified in lines 10 to 30.
+- Specific elements that must be addressed in the review, including adequacy of documentation, integrity of the information system, and accuracy of data, are listed from lines 11 to 30.
+- Information detailing ongoing validation of credit risk models has been added in lines 31 to 33.
+- Details about the process for initial and ongoing validation of IMM models are provided from lines 34 to 39.
+- Criteria to assess EPE models and their calculation process have been described on lines 40 to 42.
+- The title \"Basel III: A global regulatory framework for more resilient banks and banking systems\" alongside page number 49 has been added on line 43.- Addition of a note mentioning the effect of Basel III revisions published in December 2017 on the publication (Line 1).
+- Addition of the rule that banks must define how representative counterparty portfolios, used for validating an EPE model and its risk measures, are constructed (Line 2).
+- Addition of new guidelines regarding the validation of EPE models and risk measures. It states that validation should assess more than a single statistic of the model distribution (Line 3-4).
+- Provided detailed requirements for both initial and on-going validation of an IMM model and its risk measures (Line 5):
+   - Requirements for backtesting using historical data on movements in market risk factors, considering various time horizons, start dates, and market conditions (Line 7-9).
+   - Banks must backtest the EPE model, relevant risk measures, and market risk factor predictions including long horizons of at least 1 year (Line 10-12).
+   - Pricing models used for counterparty credit risk exposure need to be tested. These may differ from those used for market risk (Line 13-14).
+   - The EPE model must capture transaction-specific information for netting set level aggregation, checking if transactions are assigned to the appropriate netting set (Line 15-16).
+   - Conducting static, historical backtesting on representative counterparty portfolios (Line 17-18).
+   - Significant differences between realised exposures and the forecast distribution could result in additional capital being- A note indicating the impact of Basel III revisions (published in December 2017) on the publication was added.
+- Added descriptions about how banks should validate their Exposure at Default (EAD) models and relevant risk measures (line 2-8).
+- Details about the Internal Model Method (IMM) and the use of a more conservative measure were included (lines 9-11).
+- Further details surrounding the validation process, including the need to cover all counterparties and assessing bank level calculations, were added (lines 12-14).
+- Information about an independent risk control unit responsible for counterparty credit risk management was added (lines 15-17).
+- Introduction to a section addressing reliance on external credit ratings and minimizing cliff effects and its subsection on standardized inferred rating treatment for long-term exposures were added (lines 18-19).
+- Modifications of Para. 99 of the Basel II text, about how the risk weight of a claim will be assigned, were included (lines 20-27).- Added a note at the beginning referencing Basel III revisions and providing a link for more information.
+- Added information about how a borrower's issuer assessment is typically applied, and how it affects different claims.
+- Highlighted an incentive to avoid getting exposures rated.
+- Modified Paragraph 733 of the Basel II text, which now includes explicit instructions for banks to have methodologies allowing them to assess their credit risk exposure.
+- Incorporated the IOSCO’s Code of Conduct Fundamentals for Credit Rating Agencies in the Basel text.
+- Edited Paragraphs 91 and 565(b) of the Basel II text, detailing the process of ECAI recognition and eligibility.
+- Specified that there were no suggested changes to the criteria of Objectivity and Independence for ECAI evaluation.
+- Altered the criteria of International access/Transparency, mandating that certain assessment information be publicly available.- Line 1: Added a note regarding Basel III revisions affecting certain parts of the publication.
+- Lines 3 to 10: Included new procedures, methodologies, and assumptions for the ECAI assessments to be publicly available. Also referenced to disclosure requirements of an ECAI.
+- Lines 11, 12: Stated that no changes are suggested for resources and credibility.
+- Lines 14 - 57: Added operational requirements for using external credit assessments in the securitization framework. Clarified the eligibility and accessibility of external credit assessments, and the importance of public transparency in disclosing ratings information.
+- Lines 58 - 75: Introduced a new section regarding \"Cliff effects\" arising from guarantees and credit derivatives, detailing the Standardised Approach and the entities recognized to offer credit protection.
+- Line 76 - 77: Discussed about options in case the credit assessment is not provided free of charge.
+- Line 78: Added Basel III global regulatory framework information.- The Basel III revisions, published in December 2017, affect portions of this publication (lines 1).
+- A new segment has been introduced that discusses the provision of credit protection to securitisation exposure (lines 2-6).
+- The new section titled 'Recognition under the Foundation IRB approach' has been added, which discusses banks using the foundation approach for Loss Given Default (LGD) and related concepts (lines 7-14).
+- In section 5 titled 'Unsolicited ratings and recognition of ECAIs', two paragraphs (94 and 108) of the Basel II text will be modified (lines 15-30).
+- A new section about the Capital conservation buffer has been added. This includes subsection 'A. Capital conservation best practice' (lines 31-41).- A note has been added mentioning the impact of Basel III revisions published in December 2017 on the publication.
+- Discussions about the balance between options as part of the capital planning process with supervisors have been added.
+- Point 125 discusses the need for banks to make greater efforts to rebuild their capital buffers as their capital levels approach the minimum requirement.
+- Point 126 states that banks with depleted capital buffers cannot justify maintaining generous distributions based on future predictions of recovery.
+- Point 127 warns against banks using capital distribution as a sign of financial strength, indicating that it's irresponsible and that it could lead other banks to do the same and consequently increase distributions at inappropriate times.
+- Point 128 introduces a framework that limits the discretion of banks with depleted capital buffers to reduce them further. The framework aims to enhance their ability to cope with adverse conditions and reduce procyclicality.
+- A new Section B titled \"The framework\" has been introduced.
+- Point 129 introduces a capital conservation buffer of 2.5%, made up of Common Equity Tier 1. Banks can maintain normal operations when their capital falls within this range, as constraints only pertain to distributions, not to the operation of the bank.
+- Point 130 describes how distribution constraints increase as banks' capital levels approach the minimum requirements. The goal is to prevent the range from being viewed as a new minimum capital requirement.
+- A footnote has been added specifying that Common Equity Tier 1 must first be used to meet the minimum capital requirements- A note regarding Basel III revisions affecting parts of the publication has been added.
+- A new section numbered 131 has been added, detailing minimum capital conservation ratios for banks at various levels of Common Equity Tier 1 (CET1) capital ratios. This outlines the regulations a bank has to follow when making financial distributions.
+- Following this, a table has been added showing the minimum capital conservation standards specifically for Individual banks, breaking down the CET1 ratios at varying percentages of earnings.
+- A new section 132 is added, discussing further key aspects of the requirements, including: the elements that contribute to the restriction on distributions; a definition of earnings in this context; when to apply the framework (either solo or consolidated); and how supervisors have the discretion to impose time limits on an operation within the buffer range.- Added a note about Basel III revisions in December 2017 affecting parts of the publication and included a link.
+- Added a directive that supervisors should make sure that bank capital plans aim to rebuild buffers over a fitting timeframe.
+- Introduced the section on transitional arrangements explaining the phased implementation of the capital conservation buffer between 1 January 2016 and the end of 2018, full effectiveness from 2019, and how it will gradually increase.
+- Added the information that countries with excessive credit growth should consider a faster build-up and that national authorities can impose shorter transition times.
+- Incorporated guidelines for banks that meet the minimum requirement but are below the 7% Common Equity Tier 1 target.
+- Clarified that the division of the buffer into quartiles will begin from 1 January 2016, and these will expand as the capital conservation buffer is phased in.
+- Introduced the section on the countercyclical buffer, explaining its importance in countering losses from periods of excess credit growth and protecting the banking sector.
+- Detailed the aim and functioning of the countercyclical buffer, emphasizing that it will be deployed by national jurisdictions only when needed.
+- Explained how internationally-active banks will be affected by the countercyclical buffer: these may frequently be subjected to a small buffer as credit cycles may vary by jurisdiction.
+- Outlined the countercyclical buffer regime, explaining that national authorities will monitor credit growth and other indicators, and based on their assessments, will implement- A note has been added stating Basel III revisions published in December 2017 affect parts of the publication. This link has been provided: https://www.bis.org/bcbs/publ/d424.htm
+- There is a new condition that a requirement will be released when system-wide risk crystallises or dissipates.
+- It has been mentioned that internationally active banks will consider the geographic location of their private sector credit exposures and calculate their bank-specific countercyclical capital buffer requirement.
+- A rule has been added that the countercyclical buffer requirement to which a bank is subject will extend capital conservation buffer size.
+- A new section B. National countercyclical buffer requirements has been included, detailing more information on the process for implementing countercyclical buffer requirements.
+- A pre-announcement period up to 12 months will be given for a jurisdiction to raise the buffer level. Decisions for decreasing will be effective immediately.
+- There is a new point that all pre-announced buffer decisions and actual buffers for Committee member jurisdictions will be published on the BIS website.
+- A new section C. Bank Specific countercyclical buffer has been included, specifying that banks will be held subject to the countercyclical buffer.
+- Some additional notes have been provided regarding the implementation of countercyclical buffers, specifically regarding the role of national authorities and expectations for banks.
+- The name of the document has been mentioned: \"Basel III: A global regulatory framework- Added a note about Basel III revisions affecting the publication as of December 2017 and included a link to the revisions (line 1).
+- Added explanation about restrictions on distributions of Common Equity Tier 1 or other fully loss absorbing capital (line 2).
+- Made addition to the guidelines for banks about calculations related to their credit exposures, including the geographic location and the countercyclical capital buffer requirement (lines 3-8).
+- Added rules regarding the discrepancies in credit risk charge for banks in different jurisdictions (lines 9-11).
+- Added information about banks' responsibility to work with supervisors to acertain the geographic location of the specific counterparties that make up the charge(line 13-18).
+- Discussed the extension of the capital conservation buffer (line 19-23).
+- Introduced a table about the minimum capital conservation ratios a bank must meet at various levels of the Common Equity Tier 1 capital ratio (lines 24-26).
+- Footnotes added for further explanations on Common Equity Tier 1 and how banks should consider jurisdiction of private sector credit exposure (line 27-32).- A note has been added stating that Basel III revisions published in December 2017 affect parts of the publication, along with a link to the revisions.
+- Information about individual bank minimum capital conservation standards has been added. These include Common Equity Tier 1 that is fully loss absorbing capital, expressed as a percentage of earnings.
+- Details about buffer ratios have been added, ranging from 100% for the first quartile of buffer to 0% for above top of the buffer.
+- A clarification about individual bank minimum capital conservation standards when the bank is subject to a 2.5% countercyclical buffer requirement has been provided.
+- It defines various levels of Common Equity Tier 1 capital ratios and their corresponding minimum capital conservation ratios.
+- New segment 'Frequency of calculation and disclosure' added mentioning that banks need to ensure that their countercyclical buffer requirements are calculated and publicly disclosed with the same frequency as their minimum capital requirements.
+- A new section titled 'Transitional arrangements' was added, explaining that the countercyclical buffer regime will be phased in parallel with the capital conservation buffer from 1 January 2016 to year end 2018, becoming fully effective on 1 January 2019.
+- The document mentions measures for countries experiencing excessive credit growth during the transition period, such as accelerating the buildup of the capital conservation buffer and the countercyclical buffer.
+- It ends with the phrase \"60 Basel III: A global regulatory framework for more resilient banks- Added a note about Basel III revisions published in December 2017 that affects the document, with a link.
+- Added section V, titled \"Leverage ratio\" which includes subsections: \"A. Rationale and objective\" and \"B. Definition and calculation of the leverage ratio\".
+- Added points 151 to 152, which discuss the reason for introducing a new leverage ratio due to the crisis faced by the banking sector.
+- Point 153 introduces the concept of leverage ratio, its definition, and the use of the ratio for testing during the \"parallel run period\". Details of capital measure and total exposure are provided.
+- Added points 154 to 156 under section \"1. Capital measure\". It discusses the calculation of capital measure for the leverage ratio, types of capital to be used, and certain adjustments that need to be made to avoid double counting.
+- Point 156 provides instructions about handling investments in entities included only in accounting consolidation but not in regulatory consolidation.
+- Notable is that the minimum Tier 1 leverage ratio of 3% will be tested during the \"parallel run period\" from 1 January 2013 to 1 January 2017. Further arrangements have been mentioned under paragraphs 165 to 167, which are not given in the diff.
+- A note has been added stating that Basel III revisions published in December 2017 impact parts of the publication and provides a link for further details.
+- A new section (2. Exposure measure) has been included, introducing general measurement principles (line 157) with some specific points to be considered.
+- On-Balance Sheet non-derivative exposures are net of specific provisions and valuation adjustments.
+- Physical or financial collateral, guarantees, or credit risk mitigation bought cannot decrease On-Balance sheet exposures.
+- Netting of loans and deposits is not permitted.
+- There's an added section about On-balance sheet items (line 158) which includes specific treatments for Securities Financing Transactions (SFT) and derivatives.
+- Subsections relating to repurchase agreements and securities finance (line 159), and derivatives (line 160) were added.
+- It explains SFT being a significant source of balance sheet leverage and that banks should calculate SFT for the purposes of the leverage ratio by applying the accounting measure of exposure and the regulatory netting rules based on the Basel II Framework.
+- It describes that derivatives produce two types of exposure and banks should calculate derivatives, including where a bank sells protection using a credit derivative for the purposes of the leverage ratio. This is achieved by applying the accounting measure of exposure and the Basell II regulatory netting rules. It specifically mentions that potential future exposure should also be considered.
+- The document reference \"62 Basel III: A global regulatory framework for more- Added a note on line 1 about Basel III revisions published in December 2017 affecting parts of the publication.
+- Added a subheading (iii) \"Off-balance sheet items\" on line 2.
+- Added text regarding off-balance sheet (OBS) items, detailing the various types of commitments included and the section's relation to certain paragraphs of the Basel II Framework on lines 3 to 8.
+- Added a statement about the potential significant leverage of OBS items and the methods of calculating them on lines 9 to 14.
+- Added a new subheading \"C. Transitional arrangements\" on line 15.
+- Added information regarding the transition period for the leverage ratio, its commencement date, and monitoring methods on lines 16 to 24.
+- Added details for the two components of the transition period: supervisory monitoring period and a parallel run period on lines 25 to 33.
+- Added a summary of further actions based on the results of the parallel run period on lines 34 to 36.
+- Added a reference note on line 37 related to paragraph 22 of the Basel II Framework.
+- Added a title \"Basel III: A global regulatory framework for more resilient banks and banking systems\" and page number 63 on the last line.- Addition on lines 1-15:
+  - Added a note about the Basel III revisions in December 2017 affecting parts of publication, with a link to those revisions.
+  - Added \"Annex 1\"
+  - Added \"Calibration of the capital framework\"
+  - Added \"Calibration of the Capital Framework\"
+  - Added \"Capital requirements and buffers (all numbers in percent)\"
+  - Added \"Common Equity\"
+  - Added \"Tier 1 Capital Total Capital\"
+  - Added \"Tier 1\"
+  - Added \"Minimum 4.5 6.0 8.0\"
+  - Added \"Conservation buffer 2.5\"
+  - Added \"Minimum plus 7.0 8.5 10.5\"
+  - Added \"conservation buffer\"
+  - Added \"Countercyclical buffer 0 – 2.5 range*\"
+  - Added \"* See footnote 53\"
+  - Added \"64 Basel III: A global regulatory framework for more resilient banks and banking systems\"- A note has been added mentioning that Basel III revisions published in December 2017 impact certain sections of the publication and provided a link for further reading.
+- New content has been included in Annex 2, describing the calculation of a 15% limit on certain specified items related to investments in common shares of unconsolidated financial institutions, mortgage servicing rights, and deferred tax assets.
+- The document outlines that the recognition of these items should not exceed 15% of the Common Equity Tier 1 (CET1) capital after all deductions have been applied.
+- To determine the peak amount that can be accounted for, banks should multiply the CET1 by 17.65%. Important to remember that the actual recognized amount might be lower because of either the summed up three specified items being below the 15% limit or the application of a 10% limit to each item.
+- The input also provides an example with a bank that has €85 of common equity. After all deductions, the maximum amount of specified items this bank can include in its CET1 calculation is €15. Any excess must be deducted from CET1.
+- Clarification has been added that the determined CET1 here is a hypothetical amount, used only to determine the deductions of the specified items.- A note has been added indicating that Basel III revisions from December 2017 affect parts of the publication and providing a link to these revisions.
+- Annex 3 has been added, which includes an illustrative example about the treatment of minority interests and other capital issued from subsidiaries to third parties. This is in reference to paragraphs 62 to 64.
+- Details of the illustrative example have been added:
+  - The banking group is composed of two banks, Bank P (parent) and Bank S (subsidiary). Their unconsolidated balance sheets are shown.
+  - The balance sheet indicates that Bank P owns 70% of the common shares of Bank S, 80% of the Additional Tier 1, and 25% of the Tier 2 capital of Bank S.
+  - The capital issued by Bank S is broken down showing the amounts issued to the parent (Bank P) and third parties.
+- The consolidated balance sheet of the banking group is presented.
+- A reference to Basel III, a global regulatory framework for more resilient banks and banking systems, is made at line 66.- Added a note at the beginning mentioning Basel III revisions that were published in December 2017 and link for further reference.
+- Added new entries for \"Consolidated balance sheet\" - \"Assets\" that include \"Loans to customers\" at line 250, and for \"Liabilities and equity\".
+- Breakdown of \"Liabilities and equity\" category provided with specific figures for various items such as: \"Depositors\", \"Tier 2 issued by subsidiary to third parties\", \"Tier 2 issued by parent\", \"Additional Tier 1 issued by subsidiary to third parties\", \"Additional Tier 1 issued by parent\", \"Common equity issued by subsidiary to third parties (ie minority interest)\" and \"Common equity issued by parent.\"
+- Several new lines of text from \"For illustrative purposes Bank S is assumed to have risk weighted assets of 100\" down to \"calculate the amount of capital issued by Bank S.\"
+- A \"Bank S: amount of capital issued to third parties included in consolidated capital\" table was added with further breakdowns of: CET1, T1 and TC.
+- Added mention of Basel III: \"A global regulatory framework for more resilient banks and banking systems\" at line 67.- Added a note pertaining to Basel III revisions affecting the publication (line 1)
+- Added a summary table on the components of capital for the consolidated group (lines 2-4)
+- Provided a breakdown of the total amount issued by parent, subsidiaries, and parent and subsidiary to be included in consolidated capital (lines 5-9)
+- Listed the amounts corresponding to CET1, AT1, T1, T2, and TC for each category (lines 10-14)
+- Added the 68th point regarding Basel III: A global regulatory framework for more resilient banks and banking systems (line 15)- A new note has been added that Basel III revisions published in December 2017 affect parts of the publication, with a link to the revisions (https://www.bis.org/bcbs/publ/d424.htm).
+- Annex 4 has been introduced.
+- Information about the Phase-in arrangements including:
+  - The dates from 2011 to 2019.
+  - The migration to Leverage Ratio Supervisory monitoring from 1 Jan 2013 – 1 Jan 2017.
+  - Starting of disclosure from 1 Jan 2015.
+  - Changes in Minimum Common Equity Capital Ratio, Capital Conservation Buffer, and Minimum common equity plus capital conservation buffer from 2011 to 2017.
+  - Phase-in of deductions from CET1 including amounts exceeding the limit for DTAs, MSRs, and financials from 2011 to 2016.
+  - Consistent Minimum Tier 1 Capital and Minimum Total Capital from 2011 to 2017.
+  - Changes in Minimum Total Capital plus conservation buffer from 2011 to 2017.
+  - A note on Capital instruments that no longer qualify as non-core Tier 1 capital or Tier 2 capital being phased out over 10-year horizon beginning 2013.
+- Introduction of Observation periods for Liquidity coverage ratio and Net stable funding ratio."

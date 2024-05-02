@@ -1,0 +1,60 @@
+
+from promptflow import tool
+from difflib import unified_diff, Differ
+
+def generate_diff_str(lst_oldstr: str, lst_newstr: str) -> list:
+    # firstly, align the lists so they have same length
+    while len(lst_oldstr) != len(lst_newstr):
+        if len(lst_oldstr) > len(lst_newstr):
+            lst_newstr.append('')
+        else:
+            lst_oldstr.append('')
+    # difflib starts
+    lst_diffs = []
+    differ = Differ()
+    for old, new in zip(lst_oldstr, lst_newstr):
+        diff = differ.compare(old.splitlines(), new.splitlines())
+        lst_diffs.append('\n'.join(diff))
+
+    return lst_diffs
+
+def diff_text(oldfilename: str, newfilename: str):
+    with open(oldfilename, 'r', encoding='utf-8') as oldfd, open(newfilename, 'r', encoding='utf-8') as newfd:
+        txt_oldfile = oldfd.readlines()
+        txt_newfile = newfd.readlines()
+
+    diff = unified_diff(
+        txt_oldfile, txt_newfile,
+        fromfile=oldfilename, tofile=newfilename
+    )
+
+    # return ''.join(diff)
+    # instead of dumping the whole diff result, return the diff by chunks separated by "@@"
+    with open('debug.diff', 'w', encoding='utf-8') as dfd:
+        ret = []
+        for line in diff:
+            dfd.write(line)
+            if line.startswith("@@") or len(ret) == 0:
+                ret.append([line])
+            else:
+                ret[-1].append(line)
+
+    return ret
+
+# The inputs section will change based on the arguments of the tool function, after you save the code
+# Adding type to arguments and return value will help the system show the types properly
+# Please update the function name/signature per need
+@tool
+def my_python_tool(lst_txt_old: list, lst_txt_new: list) -> list:
+    return generate_diff_str(lst_txt_old, lst_txt_new)
+
+
+
+if __name__ == "__main__":
+    from Prepare_File import split_pdf_by_page
+    lold = split_pdf_by_page('basel3_2010.pdf')
+    lnew = split_pdf_by_page('basel3_2011.pdf')
+    with open('test2010-diff.txt', 'w', encoding='utf-8') as fd:
+        fd.write(
+            generate_diff_str(lold, lnew).__repr__()
+        )

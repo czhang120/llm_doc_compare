@@ -1,0 +1,41 @@
+inputs:
+  name_olddoc:
+    type: string
+    default: test-old.pdf
+  name_newdoc:
+    type: string
+    default: test-new.pdf
+outputs:
+  summary:
+    type: string
+    reference: ${Summarize_Changes.output}
+nodes:
+- name: Generate_Diff
+  type: python
+  source:
+    type: code
+    path: Generate_Diff.py
+  inputs:
+    lst_txt_old: ${Read_Old_File.output}
+    lst_txt_new: ${Read_New_File.output}
+- name: Summarize_Changes
+  type: python
+  source:
+    type: code
+    path: Summarize_Changes.py
+  inputs:
+    diff: ${Generate_Diff.output}
+- name: Read_Old_File
+  type: python
+  source:
+    type: code
+    path: Prepare_File.py
+  inputs:
+    filename: ${inputs.name_olddoc}
+- name: Read_New_File
+  type: python
+  source:
+    type: code
+    path: Prepare_File.py
+  inputs:
+    filename: ${inputs.name_newdoc}
